@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "emos.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for emos.jwt.secret."
+  }
+] }
