@@ -2,7 +2,7 @@
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.x-green) ![Jetty](https://img.shields.io/badge/Server-Jetty_9.4-9cf) ![TRTC](https://img.shields.io/badge/TRTC-10.6-blue)
 
-> Enterprise-grade smart office solution core service, supporting daily operations for 100,000+ users
+> Enterprise-grade smart office solution core service
 
 ---
 
